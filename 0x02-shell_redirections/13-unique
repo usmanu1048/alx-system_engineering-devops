@@ -1,2 +1,2 @@
 #!/bin/bash
-cat sortedlist | uniq -u  
+sort | uniq -u  
