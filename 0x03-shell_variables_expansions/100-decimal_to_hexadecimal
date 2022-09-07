@@ -1,2 +1,2 @@
 #!/bin/bash
-hexString = yourNumber.toString(16);
+hexString = yourNumber.toString(16):
